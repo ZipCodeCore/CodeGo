@@ -2,6 +2,10 @@
 
 Welcome to your introduction to programming with Java and Python! This repository contains beginner-friendly tutorials for both languages, focusing on how code gets executed on your computer.
 
+CodeGo is a comprehensive platform designed to help you understand the intricacies of programming languages, specifically Java and Python. It provides a structured learning experience that covers the fundamentals of these languages, including syntax, data types, control structures, and more.
+
+**But actually, CodeGo is Fit!**
+
 ## What is Code Interpretation vs Compilation?
 
 When you write code, your computer doesn't understand it directly. Programming languages need to be translated into machine language (1s and 0s) that your computer can execute. There are two main ways this happens:
