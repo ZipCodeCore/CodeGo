@@ -1,4 +1,4 @@
-# Code Interpreters: Understanding How Programming Languages Run
+# CodeGo : Understanding How Programming Languages Run
 
 Welcome to your introduction to programming with Java and Python! This repository contains beginner-friendly tutorials for both languages, focusing on how code gets executed on your computer.
 
