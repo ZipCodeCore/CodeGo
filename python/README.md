@@ -9,21 +9,6 @@ You will use the `Python interpreter` to learn about variables, functions, and c
 **Make sure you TYPE the snippets from the markdown files into the Python interpreter**.
 Not typing, doing copy/paste, will not help you learn (and is cheating at this point of the course)
 
-## Getting Started
-
-To get started, clone this repository to your local machine:
-
-```bash
-cd ~/Projects
-git clone https://github.com/ZipCodeCore/JavaSmall
-```
-
-Then, navigate to the repository:
-
-```bash
-cd JavaSmall
-```
-
 ## Python Setup
 
 Make sure you have Python installed on your system:
@@ -34,8 +19,6 @@ python3 --version
 
 If you don't have Python installed:
 - **macOS**: Install via Homebrew: `brew install python3`
-- **Windows**: Download from https://python.org
-- **Linux**: Use your package manager: `sudo apt install python3` (Ubuntu/Debian)
 
 ## Using the Python Interpreter
 
@@ -78,14 +61,6 @@ Start with `PythonSmall.md` and follow the links to the other guides:
 1. **PythonSmall.md** - Learn Python basics with the interpreter
 2. **VARS.md** - Understanding Python variables and types
 3. **ClassPerson.md** - Creating and using Python classes
-
-## Python Advantages for Beginners
-
-1. **No compilation needed** - Python code runs directly
-2. **Interactive by nature** - No special shell needed like jshell
-3. **Readable syntax** - More English-like than Java
-4. **Dynamic typing** - No need to declare variable types
-5. **Extensive standard library** - Lots of built-in functionality
 
 ## Tips for Success
 

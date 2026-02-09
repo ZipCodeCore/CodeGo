@@ -26,7 +26,40 @@ cd java
 cd python
 ```
 
-Use a browser to be able to see the markdown files. JavaSmall.md or PythonSmall.md
+Use a browser to be able to see the markdown files. 
+JavaSmall.md or PythonSmall.md will be where you start!!
+
+## What's in This Repository
+
+This repository contains parallel tutorials for both languages:
+
+### Java Directory (`/java/`)
+- **README.md**: Getting started with Java and jshell
+- **JavaSmall.md**: Interactive Java programming with jshell
+- **VARS.md**: Understanding Java variables using jshell
+- **ClassPerson.md**: Creating Java classes interactively
+
+### Python Directory (`/python/`)
+- **README.md**: Getting started with Python interpreter
+- **PythonSmall.md**: Interactive Python programming
+- **VARS.md**: Understanding Python variables
+- **ClassPerson.md**: Creating Python classes
+
+## Learning Path
+
+1. **Start with either language** - both directories teach the same concepts
+2. **Use the interpreters** - jshell for Java, python3 for Python
+3. **Type, don't copy-paste** - build muscle memory and understanding
+4. **Experiment beyond the examples** - interpreters make this safe and fun
+
+## Key Takeaways
+
+- **Interpreters** let you run code immediately, line by line
+- **Compilers** translate entire programs before running
+- **JShell** brings interpreter-style learning to Java
+- **Python** has always been interpreted, making it beginner-friendly
+- Both approaches have their place in programming
+
 
 ## What is Code Interpretation vs Compilation?
 
