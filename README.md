@@ -6,6 +6,28 @@ CodeGo is a comprehensive platform designed to help you understand the intricaci
 
 **But actually, CodeGo is Fit!**
 
+
+## Getting Started
+
+To get started, clone this repository to your local machine:
+
+```bash
+cd ~/Projects
+git clone https://github.com/ZipCodeCore/CodeGo
+```
+
+Then, navigate to the repository:
+
+```bash
+cd CodeGo
+# and then, 
+cd java
+# or
+cd python
+```
+
+Use a browser to be able to see the markdown files. JavaSmall.md or PythonSmall.md
+
 ## What is Code Interpretation vs Compilation?
 
 When you write code, your computer doesn't understand it directly. Programming languages need to be translated into machine language (1s and 0s) that your computer can execute. There are two main ways this happens:

@@ -1,7 +1,5 @@
 # Python Small
 
-`fork` this repository and `clone` it to your local machine.
-
 This repository contains small Python projects and guides for beginners.
 
 There are three markdown files that will lead you through a series of
