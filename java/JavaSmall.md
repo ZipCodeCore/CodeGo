@@ -19,7 +19,7 @@ Learn to use `jshell` to run Java code.
 7. Type `x`
 8. Type `x = x + 10`
 9. Type `x`
-10. Type `println(String s) { System.out.println(s); }`
+10. Type `void println(String s) { System.out.println(s); }`
 11. Type `println("your name here!");`
 
 Let's save this script to a file.
